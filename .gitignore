@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Persistence for bot
+bot_data.pickle
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+
+# OS files
+.DS_Store
